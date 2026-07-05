@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "passive-aggression",
+	"id": "passive_aggression",
 	"version": "${version}",
 	"name": "Passive Aggression",
 	"description": "This is an example description! Tell everyone what your mod is about!",
